@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SkZb0a+PREoBxCa1a1DIjdSE9IiCy5nyQJqhgjlfYfHnL33ggu37wBKnYQFzPUG5WaVati+ZKSkhgEk0W7x19w==",
+  "dgSpecHash": "1s2FzSJZxHJ9O4HsNEpazf/8SgLKv21iIiq1dJ+cqwrXVoWafGAIPNaQKt7VIwGDgYYWDqpJuy198EKH+ygc8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jedrz\\OneDrive\\Pulpit\\EvenNumbers\\EvenNumbers.csproj",
+  "projectFilePath": "C:\\Users\\jedrz\\Documents\\GIT\\evenNumbers\\EvenNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

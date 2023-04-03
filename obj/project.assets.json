@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jedrz\\OneDrive\\Pulpit\\EvenNumbers\\EvenNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\jedrz\\Documents\\GIT\\evenNumbers\\EvenNumbers.csproj",
       "projectName": "EvenNumbers",
-      "projectPath": "C:\\Users\\jedrz\\OneDrive\\Pulpit\\EvenNumbers\\EvenNumbers.csproj",
+      "projectPath": "C:\\Users\\jedrz\\Documents\\GIT\\evenNumbers\\EvenNumbers.csproj",
       "packagesPath": "C:\\Users\\jedrz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jedrz\\OneDrive\\Pulpit\\EvenNumbers\\obj\\",
+      "outputPath": "C:\\Users\\jedrz\\Documents\\GIT\\evenNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jedrz\\AppData\\Roaming\\NuGet\\NuGet.Config",

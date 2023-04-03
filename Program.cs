@@ -1,7 +1,9 @@
 ﻿using System;
 using System.ComponentModel;
 using System.IO;
+using System.Net.Mime;
 using System.Threading.Channels;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace EvenNumbers
 {
@@ -23,8 +25,13 @@ namespace EvenNumbers
             string content = File.ReadAllText(path);
             File.Create(content);
             int[] t1 = CreatingIntTab(content);
-            string text = CreatingText(t1);
-            File.WriteAllText(newFile, text);
+            if (t1 != null)
+            {
+                string text = CreatingText(t1);
+                File.WriteAllText(newFile, text);
+                Console.WriteLine("newFile.txt has been created properly.");
+            }
+            
         }
         static int[] CreatingIntTab(string content)
         {
@@ -39,6 +46,15 @@ namespace EvenNumbers
                 }
                 else
                 {
+                    try
+                    {
+                        int num = Int32.Parse(newcontent);
+                    }
+                    catch
+                    {
+                        Console.WriteLine(newcontent + " is not integer. Text file is incorrect.");
+                        return null;
+                    }
                     if (Convert.ToInt32(newcontent) % 2 == 0)
                     {
                         Array.Resize(ref t1, tabIndex + 1);
