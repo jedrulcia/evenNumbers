@@ -1,0 +1,16 @@
+D:\GIT\EvenNumbers\bin\Debug\net5.0\EvenNumbers.exe
+D:\GIT\EvenNumbers\bin\Debug\net5.0\EvenNumbers.deps.json
+D:\GIT\EvenNumbers\bin\Debug\net5.0\EvenNumbers.runtimeconfig.json
+D:\GIT\EvenNumbers\bin\Debug\net5.0\EvenNumbers.runtimeconfig.dev.json
+D:\GIT\EvenNumbers\bin\Debug\net5.0\EvenNumbers.dll
+D:\GIT\EvenNumbers\bin\Debug\net5.0\EvenNumbers.pdb
+D:\GIT\EvenNumbers\obj\Debug\net5.0\EvenNumbers.csproj.AssemblyReference.cache
+D:\GIT\EvenNumbers\obj\Debug\net5.0\EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\EvenNumbers\obj\Debug\net5.0\EvenNumbers.AssemblyInfoInputs.cache
+D:\GIT\EvenNumbers\obj\Debug\net5.0\EvenNumbers.AssemblyInfo.cs
+D:\GIT\EvenNumbers\obj\Debug\net5.0\EvenNumbers.csproj.CoreCompileInputs.cache
+D:\GIT\EvenNumbers\obj\Debug\net5.0\EvenNumbers.dll
+D:\GIT\EvenNumbers\obj\Debug\net5.0\refint\EvenNumbers.dll
+D:\GIT\EvenNumbers\obj\Debug\net5.0\EvenNumbers.pdb
+D:\GIT\EvenNumbers\obj\Debug\net5.0\EvenNumbers.genruntimeconfig.cache
+D:\GIT\EvenNumbers\obj\Debug\net5.0\ref\EvenNumbers.dll
