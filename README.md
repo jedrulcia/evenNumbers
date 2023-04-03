@@ -1,4 +1,4 @@
-Hi. This is my C# code that takes all even numbers from the text file and saves them into new text file. To run this code properly, user needs to create a text file named "file.txt" in "net5.0" folder (\evenNumbers\bin\Debug\net5.0).
+This is my C# code that takes all even numbers from the text file and saves them into new text file. To run this code properly, user needs to create a text file named "file.txt" in "net5.0" folder (\evenNumbers\bin\Debug\net5.0).
 
 
         static void Main(string[] args)
